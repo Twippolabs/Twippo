@@ -15,6 +15,6 @@
   
   [![document](https://img.shields.io/badge/Explore-Twippo%20documents-%234078c0?style=for-the-badge&logo=appveyor)](https://github.com/HainvNguyen12309/Irepub/wiki)
   
-  [Twippo](https://github.com/HainvNguyen12309/Irepub) is created by [HainvNguyen12309](https://github.com/HainvNguyen12309) and under the [MIT License](https://github.com/HainvNguyen12309/Irepub/blob/main/LICENSE), read [Twippo Documents](https://github.com/HainvNguyen12309/Irepub/wiki) to know more information.
+  [Twippo](https://github.com/HainvNguyen12309/Irepub) is created by [HainvNguyen12309](https://github.com/HainvNguyen12309) and under the [MIT License](https://github.com/HainvNguyen12309/Irepub/blob/main/LICENSE), read [Twippo Documents](https://github.com/Twippolabs/Twippo/wiki) to know more information.
   
 </div>
