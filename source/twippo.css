@@ -1202,6 +1202,42 @@ irepub-special[data-type="arrowRight"]::after{content: "↠ ";}
 
 irepub-special::before, irepub-special::after{font-size: 20px;}
 
+/* Cursor */
+.cs-alias{cursor: alias;}
+.cs-all-scroll{cursor: all-scroll;}
+.cs-auto{cursor: auto;}
+.cs-cell{cursor: cell;}
+.cs-context-menu{cursor: context-menu;}
+.cs-col-resize{cursor: col-resize;}
+.cs-copy{cursor: copy;}
+.cs-crosshair{cursor: crosshair;}
+.cs-default{cursor: default;}
+.cs-e-resize{cursor: e-resize;}
+.cs-ew-resize{cursor: ew-resize;}
+.cs-grab{cursor: grab;}
+.cs-grabbing{cursor: grabbing;}
+.cs-help{cursor: help;}
+.cs-move{cursor: move;}
+.cs-n-resize{cursor: n-resize;}
+.cs-ne-resize{cursor: ne-resize;}
+.cs-nesw-resize{cursor: nesw-resize;}
+.cs-ns-resize{cursor: ns-resize;}
+.cs-nw-resize{cursor: nw-resize;}
+.cs-nwse-resize{cursor: nwse-resize;}
+.cs-no-drop{cursor: no-drop;}
+.cs-none{cursor: none;}
+.cs-not-allowed{cursor: not-allowed;}
+.cs-pointer{cursor: pointer;}
+.cs-progress{cursor: progress;}
+.cs-row-resize{cursor: row-resize;}
+.cs-s-resize{cursor: s-resize;}
+.cs-se-resize{cursor: se-resize;}
+.cs-sw-resize{cursor: sw-resize;}
+.cs-text{cursor: text;}
+.cs-w-resize{cursor: w-resize;}
+.cs-wait{cursor: wait;}
+.cs-zoom-in{cursor: zoom-in;}
+.cs-zoom-out{cursor: zoom-out;}
 /* HOVER */
 /*Padding*/
 .hover-p-none:hover{padding: var(--none);}
@@ -2328,6 +2364,43 @@ irepub-special::before, irepub-special::after{font-size: 20px;}
 .hover-of-auto:hover{overflow: auto;}
 .hover-of-initial:hover{overflow: initial;}
 .hover-of-inherit:hover{overflow: inherit;}
+
+/* Cursor */
+.hover-cs-alias:hover{cursor: alias;}
+.hover-cs-all-scroll:hover{cursor: all-scroll;}
+.hover-cs-auto:hover{cursor: auto;}
+.hover-cs-cell:hover{cursor: cell;}
+.hover-cs-context-menu:hover{cursor: context-menu;}
+.hover-cs-col-resize:hover{cursor: col-resize;}
+.hover-cs-copy:hover{cursor: copy;}
+.hover-cs-crosshair:hover{cursor: crosshair;}
+.hover-cs-default:hover{cursor: default;}
+.hover-cs-e-resize:hover{cursor: e-resize;}
+.hover-cs-ew-resize:hover{cursor: ew-resize;}
+.hover-cs-grab:hover{cursor: grab;}
+.hover-cs-grabbing:hover{cursor: grabbing;}
+.hover-cs-help:hover{cursor: help;}
+.hover-cs-move:hover{cursor: move;}
+.hover-cs-n-resize:hover{cursor: n-resize;}
+.hover-cs-ne-resize:hover{cursor: ne-resize;}
+.hover-cs-nesw-resize:hover{cursor: nesw-resize;}
+.hover-cs-ns-resize:hover{cursor: ns-resize;}
+.hover-cs-nw-resize:hover{cursor: nw-resize;}
+.hover-cs-nwse-resize:hover{cursor: nwse-resize;}
+.hover-cs-no-drop:hover{cursor: no-drop;}
+.hover-cs-none:hover{cursor: none;}
+.hover-cs-not-allowed:hover{cursor: not-allowed;}
+.hover-cs-pointer:hover{cursor: pointer;}
+.hover-cs-progress:hover{cursor: progress;}
+.hover-cs-row-resize:hover{cursor: row-resize;}
+.hover-cs-s-resize:hover{cursor: s-resize;}
+.hover-cs-se-resize:hover{cursor: se-resize;}
+.hover-cs-sw-resize:hover{cursor: sw-resize;}
+.hover-cs-text:hover{cursor: text;}
+.hover-cs-w-resize:hover{cursor: w-resize;}
+.hover-cs-wait:hover{cursor: wait;}
+.hover-cs-zoom-in:hover{cursor: zoom-in;}
+.hover-cs-zoom-out:hover{cursor: zoom-out;}
 
 /* ACTIVE */
 /*Padding*/
@@ -3456,6 +3529,43 @@ irepub-special::before, irepub-special::after{font-size: 20px;}
 .active-of-initial:active{overflow: initial;}
 .active-of-inherit:active{overflow: inherit;}
 
+/* Cursor */
+.active-cs-alias:active{cursor: alias;}
+.active-cs-all-scroll:active{cursor: all-scroll;}
+.active-cs-auto:active{cursor: auto;}
+.active-cs-cell:active{cursor: cell;}
+.active-cs-context-menu:active{cursor: context-menu;}
+.active-cs-col-resize:active{cursor: col-resize;}
+.active-cs-copy:active{cursor: copy;}
+.active-cs-crosshair:active{cursor: crosshair;}
+.active-cs-default:active{cursor: default;}
+.active-cs-e-resize:active{cursor: e-resize;}
+.active-cs-ew-resize:active{cursor: ew-resize;}
+.active-cs-grab:active{cursor: grab;}
+.active-cs-grabbing:active{cursor: grabbing;}
+.active-cs-help:active{cursor: help;}
+.active-cs-move:active{cursor: move;}
+.active-cs-n-resize:active{cursor: n-resize;}
+.active-cs-ne-resize:active{cursor: ne-resize;}
+.active-cs-nesw-resize:active{cursor: nesw-resize;}
+.active-cs-ns-resize:active{cursor: ns-resize;}
+.active-cs-nw-resize:active{cursor: nw-resize;}
+.active-cs-nwse-resize:active{cursor: nwse-resize;}
+.active-cs-no-drop:active{cursor: no-drop;}
+.active-cs-none:active{cursor: none;}
+.active-cs-not-allowed:active{cursor: not-allowed;}
+.active-cs-pointer:active{cursor: pointer;}
+.active-cs-progress:active{cursor: progress;}
+.active-cs-row-resize:active{cursor: row-resize;}
+.active-cs-s-resize:active{cursor: s-resize;}
+.active-cs-se-resize:active{cursor: se-resize;}
+.active-cs-sw-resize:active{cursor: sw-resize;}
+.active-cs-text:active{cursor: text;}
+.active-cs-w-resize:active{cursor: w-resize;}
+.active-cs-wait:active{cursor: wait;}
+.active-cs-zoom-in:active{cursor: zoom-in;}
+.active-cs-zoom-out:active{cursor: zoom-out;}
+
 /* FOCUS */
 /*Padding*/
 .focus-p-none:focus{padding: var(--none);}
@@ -4582,3 +4692,40 @@ irepub-special::before, irepub-special::after{font-size: 20px;}
 .focus-of-auto:focus{overflow: auto;}
 .focus-of-initial:focus{overflow: initial;}
 .focus-of-inherit:focus{overflow: inherit;}
+
+/* Cursor */
+.focus-cs-alias:focus{cursor: alias;}
+.focus-cs-all-scroll:focus{cursor: all-scroll;}
+.focus-cs-auto:focus{cursor: auto;}
+.focus-cs-cell:focus{cursor: cell;}
+.focus-cs-context-menu:focus{cursor: context-menu;}
+.focus-cs-col-resize:focus{cursor: col-resize;}
+.focus-cs-copy:focus{cursor: copy;}
+.focus-cs-crosshair:focus{cursor: crosshair;}
+.focus-cs-default:focus{cursor: default;}
+.focus-cs-e-resize:focus{cursor: e-resize;}
+.focus-cs-ew-resize:focus{cursor: ew-resize;}
+.focus-cs-grab:focus{cursor: grab;}
+.focus-cs-grabbing:focus{cursor: grabbing;}
+.focus-cs-help:focus{cursor: help;}
+.focus-cs-move:focus{cursor: move;}
+.focus-cs-n-resize:focus{cursor: n-resize;}
+.focus-cs-ne-resize:focus{cursor: ne-resize;}
+.focus-cs-nesw-resize:focus{cursor: nesw-resize;}
+.focus-cs-ns-resize:focus{cursor: ns-resize;}
+.focus-cs-nw-resize:focus{cursor: nw-resize;}
+.focus-cs-nwse-resize:focus{cursor: nwse-resize;}
+.focus-cs-no-drop:focus{cursor: no-drop;}
+.focus-cs-none:focus{cursor: none;}
+.focus-cs-not-allowed:focus{cursor: not-allowed;}
+.focus-cs-pointer:focus{cursor: pointer;}
+.focus-cs-progress:focus{cursor: progress;}
+.focus-cs-row-resize:focus{cursor: row-resize;}
+.focus-cs-s-resize:focus{cursor: s-resize;}
+.focus-cs-se-resize:focus{cursor: se-resize;}
+.focus-cs-sw-resize:focus{cursor: sw-resize;}
+.focus-cs-text:focus{cursor: text;}
+.focus-cs-w-resize:focus{cursor: w-resize;}
+.focus-cs-wait:focus{cursor: wait;}
+.focus-cs-zoom-in:focus{cursor: zoom-in;}
+.focus-cs-zoom-out:focus{cursor: zoom-out;}
